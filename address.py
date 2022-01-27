@@ -7,7 +7,7 @@ warnings.filterwarnings("ignore")
 
 #Importing data in csv format
 df = pd.read_csv("Python Quiz Input - Sheet1.csv", delimiter=',')
-#this try is i case your input contains a validation column
+#this try is in case your input contains a validation column
 try:
     df.pop('Validation')
 except:
