@@ -13,4 +13,4 @@ cd \nameOfTheVenv\Scripts\activate.bat
 
 pip install -r requirements.txt
 
-run the address.py file
+run the address.py file using the virtual enviroment
