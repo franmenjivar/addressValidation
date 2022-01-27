@@ -6,7 +6,8 @@ an driver is located in this repo however if you are using an old google chrome 
 
 create a virtual env in the desire folder by using the requirements.txt 
 
-python -m venv nameOfTheVenv
+python -m venv nameOfTheVenv  
+in the repo the virtual env is called ws
 
 cd \nameOfTheVenv\Scripts\activate.bat
 
